@@ -9,3 +9,6 @@
 <h2 align="center">Layout</h2>
 
 ![](images/finished%20login-screen.PNG)
+
+<h2>License</h2>
+MIT License
